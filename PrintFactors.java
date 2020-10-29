@@ -8,7 +8,7 @@ public class PrintFactors
 		for(i=1;i<=n;i++)
 		{
 			if(n%i==0)
-				System.out.println("Factors of "+n+" = "+i);
+				System.out.println("Factor of "+n+" = "+i);
 		}
 	}
 }
